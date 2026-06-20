@@ -1,0 +1,15 @@
+C:\Users\gupta\OneDrive\Desktop\cognizant-deepskilling\Engineering_Concepts\Data_Structures_and_algorithms\ECommercePlatform\ECommercePlatform\bin\Debug\net8.0\ECommercePlatform.exe
+C:\Users\gupta\OneDrive\Desktop\cognizant-deepskilling\Engineering_Concepts\Data_Structures_and_algorithms\ECommercePlatform\ECommercePlatform\bin\Debug\net8.0\ECommercePlatform.deps.json
+C:\Users\gupta\OneDrive\Desktop\cognizant-deepskilling\Engineering_Concepts\Data_Structures_and_algorithms\ECommercePlatform\ECommercePlatform\bin\Debug\net8.0\ECommercePlatform.runtimeconfig.json
+C:\Users\gupta\OneDrive\Desktop\cognizant-deepskilling\Engineering_Concepts\Data_Structures_and_algorithms\ECommercePlatform\ECommercePlatform\bin\Debug\net8.0\ECommercePlatform.dll
+C:\Users\gupta\OneDrive\Desktop\cognizant-deepskilling\Engineering_Concepts\Data_Structures_and_algorithms\ECommercePlatform\ECommercePlatform\bin\Debug\net8.0\ECommercePlatform.pdb
+C:\Users\gupta\OneDrive\Desktop\cognizant-deepskilling\Engineering_Concepts\Data_Structures_and_algorithms\ECommercePlatform\ECommercePlatform\obj\Debug\net8.0\ECommercePlatform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gupta\OneDrive\Desktop\cognizant-deepskilling\Engineering_Concepts\Data_Structures_and_algorithms\ECommercePlatform\ECommercePlatform\obj\Debug\net8.0\ECommercePlatform.AssemblyInfoInputs.cache
+C:\Users\gupta\OneDrive\Desktop\cognizant-deepskilling\Engineering_Concepts\Data_Structures_and_algorithms\ECommercePlatform\ECommercePlatform\obj\Debug\net8.0\ECommercePlatform.AssemblyInfo.cs
+C:\Users\gupta\OneDrive\Desktop\cognizant-deepskilling\Engineering_Concepts\Data_Structures_and_algorithms\ECommercePlatform\ECommercePlatform\obj\Debug\net8.0\ECommercePlatform.csproj.CoreCompileInputs.cache
+C:\Users\gupta\OneDrive\Desktop\cognizant-deepskilling\Engineering_Concepts\Data_Structures_and_algorithms\ECommercePlatform\ECommercePlatform\obj\Debug\net8.0\ECommercePlatform.sourcelink.json
+C:\Users\gupta\OneDrive\Desktop\cognizant-deepskilling\Engineering_Concepts\Data_Structures_and_algorithms\ECommercePlatform\ECommercePlatform\obj\Debug\net8.0\ECommercePlatform.dll
+C:\Users\gupta\OneDrive\Desktop\cognizant-deepskilling\Engineering_Concepts\Data_Structures_and_algorithms\ECommercePlatform\ECommercePlatform\obj\Debug\net8.0\refint\ECommercePlatform.dll
+C:\Users\gupta\OneDrive\Desktop\cognizant-deepskilling\Engineering_Concepts\Data_Structures_and_algorithms\ECommercePlatform\ECommercePlatform\obj\Debug\net8.0\ECommercePlatform.pdb
+C:\Users\gupta\OneDrive\Desktop\cognizant-deepskilling\Engineering_Concepts\Data_Structures_and_algorithms\ECommercePlatform\ECommercePlatform\obj\Debug\net8.0\ECommercePlatform.genruntimeconfig.cache
+C:\Users\gupta\OneDrive\Desktop\cognizant-deepskilling\Engineering_Concepts\Data_Structures_and_algorithms\ECommercePlatform\ECommercePlatform\obj\Debug\net8.0\ref\ECommercePlatform.dll

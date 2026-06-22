@@ -1,0 +1,12 @@
+C:\Users\gupta\OneDrive\Desktop\cognizant-deepskilling\NUnit_and_Moq\NUnit\CalcLibrary\bin\Debug\net8.0\CalcLibrary.deps.json
+C:\Users\gupta\OneDrive\Desktop\cognizant-deepskilling\NUnit_and_Moq\NUnit\CalcLibrary\bin\Debug\net8.0\CalcLibrary.dll
+C:\Users\gupta\OneDrive\Desktop\cognizant-deepskilling\NUnit_and_Moq\NUnit\CalcLibrary\bin\Debug\net8.0\CalcLibrary.pdb
+C:\Users\gupta\OneDrive\Desktop\cognizant-deepskilling\NUnit_and_Moq\NUnit\CalcLibrary\obj\Debug\net8.0\CalcLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gupta\OneDrive\Desktop\cognizant-deepskilling\NUnit_and_Moq\NUnit\CalcLibrary\obj\Debug\net8.0\CalcLibrary.AssemblyInfoInputs.cache
+C:\Users\gupta\OneDrive\Desktop\cognizant-deepskilling\NUnit_and_Moq\NUnit\CalcLibrary\obj\Debug\net8.0\CalcLibrary.AssemblyInfo.cs
+C:\Users\gupta\OneDrive\Desktop\cognizant-deepskilling\NUnit_and_Moq\NUnit\CalcLibrary\obj\Debug\net8.0\CalcLibrary.csproj.CoreCompileInputs.cache
+C:\Users\gupta\OneDrive\Desktop\cognizant-deepskilling\NUnit_and_Moq\NUnit\CalcLibrary\obj\Debug\net8.0\CalcLibrary.sourcelink.json
+C:\Users\gupta\OneDrive\Desktop\cognizant-deepskilling\NUnit_and_Moq\NUnit\CalcLibrary\obj\Debug\net8.0\CalcLibrary.dll
+C:\Users\gupta\OneDrive\Desktop\cognizant-deepskilling\NUnit_and_Moq\NUnit\CalcLibrary\obj\Debug\net8.0\refint\CalcLibrary.dll
+C:\Users\gupta\OneDrive\Desktop\cognizant-deepskilling\NUnit_and_Moq\NUnit\CalcLibrary\obj\Debug\net8.0\CalcLibrary.pdb
+C:\Users\gupta\OneDrive\Desktop\cognizant-deepskilling\NUnit_and_Moq\NUnit\CalcLibrary\obj\Debug\net8.0\ref\CalcLibrary.dll
